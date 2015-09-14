@@ -1,6 +1,6 @@
      MOSS: A System for Detecting Software Plagiarism
 
-          A QUICK GUIE TO GET YOU STARTED ASAP
+          A QUICK GUIDE TO GET YOU STARTED ASAP
 
 
 INTRODUCTION:
